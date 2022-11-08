@@ -31,7 +31,7 @@ global.sig = 'https://instagram.com'
 global.syt = 'https://youtube.com'
 global.sgh = 'https://github.com/Kasanstore7'
 global.sgc = 'https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz'
-global.swa = 'wa.me/6285380166282'
+global.swa = 'wa.me/6285641142178'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -55,7 +55,7 @@ global.owner = [
   ['6285641142178', 'Xiao san', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = [6285641142178] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
