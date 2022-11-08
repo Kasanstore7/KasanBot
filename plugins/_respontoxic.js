@@ -15,13 +15,13 @@ const time = moment.tz('Asia/Jakarta').format('HH')
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
   let name = await conn.getName(m.sender)
   let runnya = `━━━ꕥ〔 *SOURCE CODE* 〕ꕥ━⬣
-✾ *New Script by ᴹᴿ᭄ King Of Bear ×፝֟͜× Official*
+✾ *New Script by kaXel*
 
 ✾ *OFFICIAL GROUP*
-_https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL_
+_https://chat.whatsapp.com/GeWPLmclHaVHsF0GymCcJz_
 
 ✾ *YOUTUBE OFFICIAL*
-_https://youtu.be/hklv-Ysqqac_
+_https://youtube.com/channel/UC2ksImByAMVpCuP6v_PUVbg_
 ━━━━━━ꕥ`
   let _muptime
     if (process.send) {
@@ -36,9 +36,9 @@ _https://youtu.be/hklv-Ysqqac_
 contextInfo: { externalAdReply :{ showAdAttribution: true,
                         sourceUrl: 'https://youtu.be/hklv-Ysqqac',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+                        description: `Jangan Lupa Mandi Ya`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,          previewType: 0,
+                        body: `⚘ by KaXel`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
                         mediaUrl: 'https://youtu.be/hklv-Ysqqac'
                         
