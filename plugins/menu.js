@@ -186,20 +186,20 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 `, text.trim(), flaa, [
       [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
       [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
-    ], m, { 'document':{'url':'https://lynk.id/kahfi.xd'},
+    ], m, { 'document':{'url':'https://chat.whatsapp.com/CYQBncQHL42KM7iUYkTxaL'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓ 」',
+'fileName':'「 XiaoSan Bot  」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://lynk.id/kahfi.xd',
+                        sourceUrl: 'https://chat.whatsapp.com/CYQBncQHL42KM7iUYkTxaL',
                         mediaType: 2,
                         description: `⚘ ᴄʀᴇᴀᴛᴇ ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by https://lynk.id/kahfi.xd`,          previewType: 0,
+                        body: `⚘ by Wa.me/6285641142178`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
-                        mediaUrl: 'https://lynk.id/kahfi.xd'
+                        mediaUrl: 'https://chat.whatsapp.com/CYQBncQHL42KM7iUYkTxaL'
                         
                       }}
 })
