@@ -14,7 +14,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     itemCount : 999999,
     status: 404,
     surface : 404,
-    message: `Nih My Mastah :3`, 
+    message: `Nih Kak`, 
     orderTitle: ``,
     thumbnail: await conn.resize(await (await fetch('https://i.ibb.co/jfZVKmC/babi2.jpg')).buffer(), 300, 200) //Gambarnye
 
@@ -39,7 +39,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
 let cap = `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan dispam yah ^_^` 
   let buttonMessage= {
-'document':{'url':'https://youtu.be/hklv-Ysqqac'},
+'document':{'url:https://chat.whatsapp.com/CYQBncQHL42KM7iUYkTxaL'},
 'mimetype':global.ddocx,
 'fileName':'「 XioSan Bot 」',
 'fileLength':fsizedoc,
